@@ -1,4 +1,4 @@
-# Marco_Principios_Estadistica_2022
+# Principios Estadistica 2022
 Objetivo es almacenar el proyecto de trabajo de la clase de Principios de estadística
 
 Semana 1: 
