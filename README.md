@@ -10,8 +10,8 @@ Semana 2:
 + :round_pushpin: 27/02/2022: Conectar Github con Rstudio.
 
 Semana 3:  
-+ :round_pushpin: 02/02/2022: Sala de computo Instalar credenciales y proyecto.
-+ :round_pushpin: 03/02/2022: Sala de computo.
++ :round_pushpin: 02/02/2022: Sala de computo: Instalar credenciales Git y clonar repositorio proyecto.
++ :round_pushpin: 03/02/2022: Sala de computo: Revisar Lab 1 y HW 01.
 
 Semana 4:
 + :date: 09/02/2022
