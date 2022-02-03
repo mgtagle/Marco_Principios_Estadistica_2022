@@ -27,14 +27,14 @@ res.alt
 
 # Primera base de datos ---------------------------------------------------
 
-Ba <-  c(1:5)
+Ba <- c(1:5)
 h <- c(12, 13.1, 14.8, 16.3, 15.3)
-DAP <-c(20, 21.2, 22.1, 24.7, 22.7)
-DC <-c(9, 8.5, 7.6, 9.3, 9.2)
-t <-c(15, 16, 15, 18, 17)
-Sp <-c("Pino", "Pino", "Pino", "Encino", "Encino")
+DAP <- c(20, 21.2, 22.1, 24.7, 22.7)
+DC <- c(9, 8.5, 7.6, 9.3, 9.2)
+t <- c(15, 16, 15, 18, 17)
+Sp <- c("Pino", "Pino", "Pino", "Encino", "Encino")
 
-inventario <- data.frame(Ba, h, DAP, DC, t, Sp)
+inventario <-  data.frame(Ba, h, DAP, DC, t, Sp)
 
 mean(h)
 mean(inventario$h)
@@ -44,5 +44,4 @@ mean(inventario$h)
 inventario$dxh <-inventario$h * inventario$DAP
 
 # Gráficas ----------------------------------------------------------------
-
 
