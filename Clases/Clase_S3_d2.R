@@ -44,4 +44,3 @@ mean(inventario$h)
 inventario$dxh <-inventario$h * inventario$DAP
 
 # Gráficas ----------------------------------------------------------------
-
