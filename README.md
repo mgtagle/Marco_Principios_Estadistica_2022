@@ -16,3 +16,7 @@ Semana 3:
 Semana 4:
 + :date: 09/02/2022
 + :date: 10/02/2022
+
+
+Semana 5:
+Datos: https://raw.githubusercontent.com/mgtagle/PrincipiosEstadistica2021/main/cuadro1.csv
