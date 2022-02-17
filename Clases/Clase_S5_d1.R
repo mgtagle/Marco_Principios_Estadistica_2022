@@ -39,3 +39,13 @@ pie(por.pos, col=topo.colors(4),
 
 pie(freq.sp, col = topo.colors(3),
     labels = paste(levels(inventario$Especie), freq.sp, "ind"))
+
+
+# Subset
+
+Sp.FC <- subset(inventario, inventario$Especie !="H")
+
+boxplot(Sp.FC$Altura ~ Sp.FC$Especie)
+
+t.test(Sp.FC$Altura ~ Sp.FC$Especie, var.equal=T)
+
