@@ -23,3 +23,10 @@ quantile(semilla$Peso_gr, 0.25)
 quantile(semilla$Peso_gr, 0.5)
 quantile(semilla$Peso_gr, 0.75)
 quantile(semilla$Peso_gr, 1)
+
+
+# Tablas de frecuencia para semillas
+
+numero <- table(semilla$Cond)
+round(numero/6,1)
+
