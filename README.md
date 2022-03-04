@@ -23,3 +23,11 @@ Semana 5:
 Datos: https://raw.githubusercontent.com/mgtagle/PrincipiosEstadistica2021/main/cuadro1.csv
 
 + :round_pushpin: 17/02/2022:
+
+Semana 6:
++ :round_pushpin: 23/02/2022: Medición de diferentes experimentos en Laboratorio
++ :round_pushpin: 24/02/2022: Medición de diferentes experimentos en Laboratorio
+
+Semana 7:
++ :round_pushpin: 02/03/2022: Revisión y clasificación de semillas
++ :round_pushpin: 03/03/2022: Establecimiento de experimento de germinación y crecimiento de semillas de encino rojo
