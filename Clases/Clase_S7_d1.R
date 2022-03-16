@@ -5,6 +5,9 @@
 
 semilla <- read.csv("Clases/BaseDeDatos_estadistica.csv", header=T)
 
+write.table(semilla, "Clases/Semillas.csv", sep=",")
+write.csv(semilla, file="Clases/Semillas.csv")
+
 graf.sem <- boxplot(semilla$Peso_gr)
 
 # Indentificar valor extremo mayor a 40
