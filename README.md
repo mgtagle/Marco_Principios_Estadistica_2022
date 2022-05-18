@@ -31,3 +31,6 @@ Semana 6:
 Semana 7:
 + :round_pushpin: 02/03/2022: Revisión y clasificación de semillas
 + :round_pushpin: 03/03/2022: Establecimiento de experimento de germinación y crecimiento de semillas de encino rojo
+
+
+# Agregar gráfica de contribución
