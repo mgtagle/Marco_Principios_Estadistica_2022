@@ -35,5 +35,5 @@ Semana 7:
 
 # Agregar gráfica de contribución
 
-
+[Contribución al repositorio](Clases/Contr1.png)
 
