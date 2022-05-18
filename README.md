@@ -34,3 +34,6 @@ Semana 7:
 
 
 # Agregar gráfica de contribución
+
+
+
