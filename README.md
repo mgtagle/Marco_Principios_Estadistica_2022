@@ -11,7 +11,7 @@ Semana 2:
 
 Semana 3:  
 + :round_pushpin: 02/02/2022: Sala de computo: Instalar credenciales Git y clonar repositorio proyecto.
-+ :round_pushpin: 03/02/2022: Sala de computo: Revisar (Lab 1)(Tareas/HW_01.R) y HW 01.
++ :round_pushpin: 03/02/2022: Sala de computo: Revisar [Lab 1](Tareas/HW_01.R) y HW 01.
 
 Semana 4:
 + :date: 09/02/2022
